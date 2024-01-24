@@ -96,4 +96,10 @@ footer {
   text-align: center;
   color: white;
   padding: 10px;
+  height: 50px;
+}
+
+.footer {
+  justify-content: center;
+  margin-top: 20px;
 }
